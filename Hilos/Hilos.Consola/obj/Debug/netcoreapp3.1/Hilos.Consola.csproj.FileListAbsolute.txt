@@ -1,0 +1,13 @@
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\bin\Debug\netcoreapp3.1\Hilos.Consola.exe
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\bin\Debug\netcoreapp3.1\Hilos.Consola.deps.json
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\bin\Debug\netcoreapp3.1\Hilos.Consola.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\bin\Debug\netcoreapp3.1\Hilos.Consola.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\bin\Debug\netcoreapp3.1\Hilos.Consola.dll
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\bin\Debug\netcoreapp3.1\Hilos.Consola.pdb
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\obj\Debug\netcoreapp3.1\Hilos.Consola.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\obj\Debug\netcoreapp3.1\Hilos.Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\obj\Debug\netcoreapp3.1\Hilos.Consola.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\obj\Debug\netcoreapp3.1\Hilos.Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\obj\Debug\netcoreapp3.1\Hilos.Consola.dll
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\obj\Debug\netcoreapp3.1\Hilos.Consola.pdb
+C:\Users\USUARIO\source\repos\Hilos\Hilos.Consola\obj\Debug\netcoreapp3.1\Hilos.Consola.genruntimeconfig.cache

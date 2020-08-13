@@ -1,0 +1,13 @@
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\bin\Debug\netcoreapp3.1\MultiHilos.exe
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\bin\Debug\netcoreapp3.1\MultiHilos.deps.json
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\bin\Debug\netcoreapp3.1\MultiHilos.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\bin\Debug\netcoreapp3.1\MultiHilos.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\bin\Debug\netcoreapp3.1\MultiHilos.dll
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\bin\Debug\netcoreapp3.1\MultiHilos.pdb
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\obj\Debug\netcoreapp3.1\MultiHilos.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\obj\Debug\netcoreapp3.1\MultiHilos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\obj\Debug\netcoreapp3.1\MultiHilos.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\obj\Debug\netcoreapp3.1\MultiHilos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\obj\Debug\netcoreapp3.1\MultiHilos.dll
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\obj\Debug\netcoreapp3.1\MultiHilos.pdb
+C:\Users\USUARIO\source\repos\Hilos\MultiHilos\obj\Debug\netcoreapp3.1\MultiHilos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\bin\Debug\netcoreapp3.1\Asincrono.exe
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\bin\Debug\netcoreapp3.1\Asincrono.deps.json
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\bin\Debug\netcoreapp3.1\Asincrono.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\bin\Debug\netcoreapp3.1\Asincrono.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\bin\Debug\netcoreapp3.1\Asincrono.dll
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\bin\Debug\netcoreapp3.1\Asincrono.pdb
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\obj\Debug\netcoreapp3.1\Asincrono.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\obj\Debug\netcoreapp3.1\Asincrono.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\obj\Debug\netcoreapp3.1\Asincrono.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\obj\Debug\netcoreapp3.1\Asincrono.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\obj\Debug\netcoreapp3.1\Asincrono.dll
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\obj\Debug\netcoreapp3.1\Asincrono.pdb
+C:\Users\USUARIO\source\repos\Hilos\Asincrono\obj\Debug\netcoreapp3.1\Asincrono.genruntimeconfig.cache
